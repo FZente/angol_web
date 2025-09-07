@@ -21,3 +21,23 @@ h1{
     text-align: center  ;
     font-family: 'Times New Roman', Times, serif;
 }
+
+.infok{
+  justify-content: left;
+}
+
+#PERSON {
+  display: flex;
+  justify-content: space-between; 
+  align-items: flex-start;
+}
+
+.infok-group {
+  display: flex;
+  flex-direction: column; 
+  align-items: flex-start; 
+}
+
+#exp_cimek{
+  text-align: center;
+}
