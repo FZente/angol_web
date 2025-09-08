@@ -13,18 +13,24 @@
 }
 
 body{
-    background-color: 	#696969;
+    background-color: #696969;
 }
 
 h1{
   padding-top: 100px;
-    text-align: center  ;
-    font-family: 'Times New Roman', Times, serif;
+  text-align: center  ;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  color: white;
 }
 
-.infok{
-  justify-content: left;
+#EDUCATION {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 20px;
 }
+
 
 #PERSON {
   display: flex;
@@ -41,3 +47,4 @@ h1{
 #exp_cimek{
   text-align: center;
 }
+
