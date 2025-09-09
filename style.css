@@ -48,3 +48,10 @@ h1{
   text-align: center;
 }
 
+#lelist:hover {
+  font-style: italic;
+}
+
+.nyil{
+  height: 30px;
+}
